@@ -2,9 +2,11 @@ package br.senai.jandira.sp;
 
 public class Cliente {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+		public String nome;
+		public String email;
+		public String cidade;
+		public String idade;
+	
+		
 
 }
